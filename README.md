@@ -1,4 +1,4 @@
-# Aspect-Based-Sentiment-Analysis-of-Google_Play_Store-reviews
+## Aspect-Based-Sentiment-Analysis-of-Google_Play_Store-reviews
 
 * Scraping
   * Use [google_play_scraper package](https://pypi.org/project/google-play-scraper/) for scraping the Google play-store app reviews
@@ -22,3 +22,6 @@
   * Pass these reviews through sentiment analyser to get sentiment about given aspect
   * Use word cloud diagram for knowing the prominent aspect if they are not given to you
   * Use seaborn/matplotlib for visualization and comparision
+## Results
+
+* You can see the results in reports folder 
